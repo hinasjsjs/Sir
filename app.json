@@ -1,5 +1,5 @@
 {
-    "name": "Source Freedom",
+    "name": "Source larkeN",
     "description": "لتشغيل الاغاني في المجموعات والقنوات.",
     "logo": "https://te.legra.ph/file/402c519808f75bd9b1803.jpg",
     "keywords": [
@@ -7,31 +7,31 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/SoRsRR8r9/strong",
+    "repository": "https://github.com/hinasjsjs/sir",
     "env": {
         "SESSION": {
             "description": "اكتب هنا كود ترمكس",
             "required": true
         },
           "API_ID": {
-            "description": "لاتغيرها ابدا",
+            "description": "عير بيك علش لتغيرها عوفها",
             "required": true,
-            "value": "19399491"
+            "value": "15279984"
         },
         "HNDLR": {
-            "description": "لاتغيرها ابدا",
+            "description": "لتغيرها لانيجك",
             "required": false,
-            "value": ""
+            "value": "."
         },
             "API_HASH": {
-            "description": "لاتغيرها ابدا",
+            "description": "عير بيك لتلعب بيها",
             "required": true,
-            "value": "eaa4f266934dfef23edb6d1f25e0b10f"
+            "value": "c6895854fe7e94622ac3f04930999680"
         },
            "SUDO_USERS": {
-            "description": "اكتب ايدي المطور او اتركها كما هي",
+            "description": "لتبعبص",
             "required": true,
-            "value": "1854384004"
+            "value": "1468953218"
         }
     },
     "addons": [],
